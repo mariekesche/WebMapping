@@ -1,2 +1,2 @@
 # WebMapping
-Mapping information with html and css.
+Building a simple HTML Application with CSS and JSON.
